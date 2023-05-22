@@ -3,15 +3,17 @@
 💻   About Me :
 I am a Full Stack IT consultant, Tech lead, open source tech enthusiast from United States. I’m working as a Senior Full Stack Engineer with great exposure in software analysis, design, development, testing and deployment of multitier web based applications.
 
-Reach me at:
+Connect with me:
 
- <a href="https://www.linkedin.com/in/vinod-kumar-ravuri-92a22878/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>&nbsp;
+<a href="https://www.linkedin.com/in/vinod-kumar-ravuri-92a22878/">
+  <img align="left" alt="Vinod Kumar Ravuri - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+<a href="https://stackoverflow.com/users/2944309/vinod-kumar-ravuri">
+  <img align="left" alt="Vinod Kumar Ravuri - Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"/>
+</a>
+<br />
  
- 
- 
- 
+ <br/>
 <!-- 🛠️ Languages and Tools : -->
 <div>
   <label><b>Backend Technologies:</b></label>
